@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	문장하나 치세요
+	문장하나 치세요...
 </body>
 </html>
