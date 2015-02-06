@@ -9,6 +9,7 @@
 <body>
 		dsfgsdfgsdfgsdfgsdfgsdfgsdfg<br>
 		fgaadsfgfgds
+		한글은 왜 깨짐?
 		
 </body>
 </html>
